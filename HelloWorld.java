@@ -9,7 +9,7 @@ public class HelloWorld {
         int a=5;
         int b=5;
         int c = a+b;
-        System.out.println(c);
+        System.out.println(c + "value");
         		
 
 
